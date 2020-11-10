@@ -16,7 +16,7 @@ cd fruity-market
 npm i
 ```
 
-3. Set your Infura API KEY in `src/.env_sample` 
+3. Set your [Infura API KEY](https://infura.io/) in `src/.env_sample` 
 
 4. Rename `src/.env_sample` to `src/.env`
 
