@@ -4,8 +4,8 @@
   "description": "Open fruit market proof of concept",
   "main": "src/main.js",
   "scripts": {
-    "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html"
+    "dev": "parcel src/*.html --out-dir docs",
+    "build": "parcel build src/*.html --out-dir docs"
   },
   "keywords": [],
   "author": "",
