@@ -13,4 +13,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{"./device":"O8X7","./modal":"RSqK"}],"epB2":[function(require,module,exports) {
 "use strict";var e=require("./js/card"),r=require("./js/burger"),a=require("./js/web3entry"),n=require("./js/modal"),o=require("./js/serial"),t=require("./js/device");new Vue({el:"#app",data:{cardData:e.cardData}}),(0,r.burgerComponent)(),(0,a.web3entryComponent)(),(0,n.modalComponent)(),(0,o.serialComponent)(),(0,t.deviceComponent)();
 },{"./js/card":"efGe","./js/burger":"toNQ","./js/web3entry":"QgS7","./js/modal":"RSqK","./js/serial":"Rt62","./js/device":"O8X7"}]},{},["epB2"], null)
-//# sourceMappingURL=/main.acc486d7.js.map
+//# sourceMappingURL=main.acc486d7.js.map
