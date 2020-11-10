@@ -25,4 +25,4 @@ npm i
 npm run dev
 ```
 
-**App should be running at: http://localhost:54543**
+**App should be running at: http://localhost:1234**
